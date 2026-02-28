@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SampleTestUI/SampleTestUI.csproj" Id="1e8f96e9-4e44-42b3-8485-9fb8e7ee4427" />
+  <Project Path="TheSampleApi/TheSampleApi.csproj" />
+</Solution>
