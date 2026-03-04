@@ -15,6 +15,8 @@ This is my Educational Sample API project
 
 ### Installation
 
+## 🔧 Manual
+
 Clone the repo  
 
 ```
@@ -26,4 +28,24 @@ Run the app
 ```
 dotnet build
 dotnet run
+```
+
+## 🐳 Docker
+
+Pull the image
+
+```
+docker pull dmshved/thesampleapi:latest
+```
+
+Run the container
+
+```
+docker run -p 8080:8080 dmshved/thesampleapi:latest
+```
+
+Open
+
+```
+http://localhost:8080
 ```
