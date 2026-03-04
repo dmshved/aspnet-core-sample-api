@@ -19,4 +19,4 @@ app.AddRootEndpoints();
 app.AddErrorEndpoints();
 app.AddCourseEndpoints();
 
-app.Run();  
+app.Run();

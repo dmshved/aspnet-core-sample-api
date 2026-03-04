@@ -2,20 +2,20 @@
     ASP.NET Core Sample API
 </p>
 
-Educational Minimal API project
+This is my Educational Sample API project
 
-### The short description
+### Description
     
 - JSON instead of relational database
 - Minimal API
 - [Scalar](https://www.nuget.org/packages/Scalar.AspNetCore/2.12.41?_src=template) API Documentation
 - [Health Checks](https://www.nuget.org/packages/AspNetCore.HealthChecks.UI.Client/9.0.0?_src=template)
-- Clean architecture
+- Docker
 - CRUD
 
 ### Installation
 
-Clone the repo
+Clone the repo  
 
 ```
 git clone https://github.com/dmshved/aspnet-core-sample-api.git
@@ -24,5 +24,6 @@ git clone https://github.com/dmshved/aspnet-core-sample-api.git
 Run the app
 
 ```
+dotnet build
 dotnet run
 ```
